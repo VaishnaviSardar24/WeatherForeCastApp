@@ -22,3 +22,7 @@ http://vaishnavisardar-001-site1.ntempurl.com
 
 ## GitHub Repository
 https://github.com/VaishnaviSardar24/WeatherForeCastApp.git
+
+## Project Screenshot
+
+![Weather App](homepage.png)
